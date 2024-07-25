@@ -1,6 +1,6 @@
 import React from 'react'
 import RankNavbar from './RankNavbar'
-import Rank from './rank';
+import Rank from './Rank';
 
 export default function page() {
 
